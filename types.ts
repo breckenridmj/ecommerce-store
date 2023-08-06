@@ -12,7 +12,7 @@ export interface Product {
   export interface Image {
     id: string;
     url: string;
-  }
+  };
   
   export interface Billboard {
     id: string;
